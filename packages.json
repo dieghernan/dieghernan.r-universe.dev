@@ -1,0 +1,18 @@
+[
+    {
+        "package": "giscoR",
+        "url": "https://github.com/dieghernan/giscoR"
+    },
+    {
+        "package": "mapSpain",
+        "url": "https://github.com/rOpenSpain/mapSpain"
+    },
+    {
+        "package": "igoR",
+        "url": "https://github.com/dieghernan/igoR"
+    },
+    {
+        "package": "tidyBdE",
+        "url": "https://github.com/rOpenSpain/tidyBdE"
+    }
+]
