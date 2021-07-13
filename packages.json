@@ -12,8 +12,8 @@
         "url": "https://github.com/dieghernan/igoR"
     },
     {
-        "package": "geocoderlite",
-        "url": "https://github.com/dieghernan/geocoderlite"
+        "package": "nominatimlite",
+        "url": "https://github.com/dieghernan/nominatimlite"
     },
     {
         "package": "tidyBdE",
