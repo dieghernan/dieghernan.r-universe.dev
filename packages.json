@@ -12,6 +12,10 @@
         "url": "https://github.com/dieghernan/igoR"
     },
     {
+        "package": "geocoderlite",
+        "url": "https://github.com/dieghernan/geocoderlite"
+    },
+    {
         "package": "tidyBdE",
         "url": "https://github.com/rOpenSpain/tidyBdE"
     }
