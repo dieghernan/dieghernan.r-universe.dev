@@ -16,6 +16,10 @@
         "url": "https://github.com/dieghernan/nominatimlite"
     },
     {
+        "package": "pkgdev",
+        "url": "https://github.com/dieghernan/pkgdev"
+    },
+    {
         "package": "tidyBdE",
         "url": "https://github.com/rOpenSpain/tidyBdE"
     },
