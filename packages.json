@@ -18,5 +18,13 @@
     {
         "package": "tidyBdE",
         "url": "https://github.com/rOpenSpain/tidyBdE"
+    },
+    {
+        "package": "rostemplate",
+        "url": "https://github.com/rOpenSpain/rostemplate"
+    },
+    {
+        "package": "climaemet",
+        "url": "https://github.com/rOpenSpain/climaemet"
     }
 ]
