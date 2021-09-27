@@ -4,6 +4,10 @@
         "url": "https://github.com/rOpenGov/giscoR"
     },
     {
+        "package": "rogtemplate",
+        "url": "https://github.com/rOpenGov/rogtemplate"
+    },
+    {
         "package": "mapSpain",
         "url": "https://github.com/rOpenSpain/mapSpain"
     },
