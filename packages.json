@@ -32,6 +32,10 @@
         "url": "https://github.com/rOpenSpain/rostemplate"
     },
     {
+        "package": "ggspatial",
+        "url": "https://github.com/paleolimbot/ggspatial"
+    },
+    {
         "package": "climaemet",
         "url": "https://github.com/rOpenSpain/climaemet"
     },
