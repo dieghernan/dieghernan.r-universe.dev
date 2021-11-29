@@ -36,6 +36,10 @@
         "url": "https://github.com/paleolimbot/ggspatial"
     },
     {
+        "package": "tidygeocoder",
+        "url": "https://github.com/jessecambon/tidygeocoder"
+    },
+    {
         "package": "climaemet",
         "url": "https://github.com/rOpenSpain/climaemet"
     },
