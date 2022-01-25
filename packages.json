@@ -20,6 +20,10 @@
         "url": "https://github.com/dieghernan/nominatimlite"
     },
     {
+        "package": "rasterpic",
+        "url": "https://github.com/dieghernan/rasterpic"
+    },
+    {
         "package": "pkgdev",
         "url": "https://github.com/dieghernan/pkgdev"
     },
