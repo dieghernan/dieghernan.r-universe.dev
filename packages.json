@@ -50,5 +50,9 @@
     {
         "package": "cffr",
         "url": "https://github.com/ropensci/cffr"
+    },
+    {
+        "package": "mapasenr",
+        "url": "https://github.com/dieghernan/mapasenR"
     }
 ]
