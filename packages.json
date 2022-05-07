@@ -24,6 +24,10 @@
         "url": "https://github.com/dieghernan/rasterpic"
     },
     {
+        "package": "tidyterra",
+        "url": "https://github.com/dieghernan/tidyterra"
+    },
+    {
         "package": "pkgdev",
         "url": "https://github.com/dieghernan/pkgdev"
     },
