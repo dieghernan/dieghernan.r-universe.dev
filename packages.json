@@ -40,14 +40,6 @@
         "url": "https://github.com/rOpenSpain/rostemplate"
     },
     {
-        "package": "ggspatial",
-        "url": "https://github.com/paleolimbot/ggspatial"
-    },
-    {
-        "package": "tidygeocoder",
-        "url": "https://github.com/jessecambon/tidygeocoder"
-    },
-    {
         "package":"CatastRo",
         "url":"https://github.com/rOpenSpain/CatastRo"
     },
