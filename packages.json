@@ -52,19 +52,7 @@
     "url": "https://github.com/ropensci/cffr"
   },
   {
-    "package": "gggrid",
-    "url": "https://github.com/pmur002/gggrid"
-  },
-  {
-    "package": "minisvg",
-    "url": "https://github.com/coolbutuseless/minisvg"
-  },
-  {
-    "package": "cssparser",
-    "url": "https://github.com/coolbutuseless/cssparser"
-  },
-  {
-    "package": "svgparser",
-    "url": "https://github.com/coolbutuseless/svgparser"
+    "package": "rgeoboundaries",
+    "url": "https://github.com/wmgeolab/rgeoboundaries"
   }
 ]
