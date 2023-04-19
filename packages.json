@@ -50,9 +50,5 @@
   {
     "package": "cffr",
     "url": "https://github.com/ropensci/cffr"
-  },
-  {
-    "package": "rgeoboundaries",
-    "url": "https://github.com/wmgeolab/rgeoboundaries"
   }
 ]
