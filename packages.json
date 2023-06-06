@@ -51,4 +51,9 @@
     "package": "cffr",
     "url": "https://github.com/ropensci/cffr"
   }
+  ,
+  {
+    "package": "bbplot",
+    "url": "https://github.com/bbc/bbplot"
+  }
 ]
