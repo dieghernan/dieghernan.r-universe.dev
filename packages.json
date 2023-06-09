@@ -53,6 +53,10 @@
   }
   ,
   {
+    "package": "gitdevr",
+    "url": "https://github.com/dieghernan/gitdevr"
+  },
+  {
     "package": "bbplot",
     "url": "https://github.com/bbc/bbplot"
   }
