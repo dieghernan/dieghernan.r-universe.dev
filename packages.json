@@ -57,6 +57,10 @@
     "url": "https://github.com/dieghernan/gitdevr"
   },
   {
+    "package": "arcgeocoder",
+    "url": "https://github.com/dieghernan/arcgeocoder"
+  },
+  {
     "package": "bbplot",
     "url": "https://github.com/bbc/bbplot"
   }
