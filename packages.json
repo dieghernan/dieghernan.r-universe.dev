@@ -16,6 +16,10 @@
     "url": "https://github.com/dieghernan/igoR"
   },
   {
+    "package": "resmush",
+    "url": "https://github.com/dieghernan/resmush"
+  },
+  {
     "package": "nominatimlite",
     "url": "https://github.com/dieghernan/nominatimlite"
   },
