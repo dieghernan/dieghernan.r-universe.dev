@@ -32,10 +32,6 @@
     "url": "https://github.com/dieghernan/tidyterra"
   },
   {
-    "package": "pkgdev",
-    "url": "https://github.com/dieghernan/pkgdev"
-  },
-  {
     "package": "tidyBdE",
     "url": "https://github.com/rOpenSpain/tidyBdE"
   },
@@ -63,9 +59,5 @@
   {
     "package": "arcgeocoder",
     "url": "https://github.com/dieghernan/arcgeocoder"
-  },
-  {
-    "package": "bbplot",
-    "url": "https://github.com/bbc/bbplot"
   }
 ]
