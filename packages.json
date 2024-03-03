@@ -48,6 +48,10 @@
     "url": "https://github.com/rOpenSpain/climaemet"
   },
   {
+    "package": "pkgdev",
+    "url": "https://github.com/dieghernan/pkgdev"
+  },
+  {
     "package": "cffr",
     "url": "https://github.com/ropensci/cffr"
   }
