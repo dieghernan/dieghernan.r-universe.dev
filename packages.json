@@ -1,50 +1,70 @@
 [
-    {
-        "package": "giscoR",
-        "url": "https://github.com/rOpenGov/giscoR"
-    },
-    {
-        "package": "igoR",
-        "url": "https://github.com/dieghernan/igoR"
-    },
-    {
-        "package": "resmush",
-        "url": "https://github.com/dieghernan/resmush"
-    },
-    {
-        "package": "nominatimlite",
-        "url": "https://github.com/dieghernan/nominatimlite"
-    },
-    {
-        "package": "rasterpic",
-        "url": "https://github.com/dieghernan/rasterpic"
-    },
-    {
-        "package": "tidyterra",
-        "url": "https://github.com/dieghernan/tidyterra"
-    },
-    {
-        "package": "arcgeocoder",
-        "url": "https://github.com/dieghernan/arcgeocoder"
-    },
-    {
-        "package": "mapSpain",
-        "url": "https://github.com/rOpenSpain/mapSpain"
-    },
-    {
-        "package": "tidyBdE",
-        "url": "https://github.com/rOpenSpain/tidyBdE"
-    },
-    {
-        "package": "CatastRo",
-        "url": "https://github.com/rOpenSpain/CatastRo"
-    },
-    {
-        "package": "climaemet",
-        "url": "https://github.com/rOpenSpain/climaemet"
-    },
-    {
-        "package": "cffr",
-        "url": "https://github.com/ropensci/cffr"
-    }
+  {
+    "package": "giscoR",
+    "url": "https://github.com/rOpenGov/giscoR"
+  },
+  {
+    "package": "rogtemplate",
+    "url": "https://github.com/rOpenGov/rogtemplate"
+  },
+  {
+    "package": "igoR",
+    "url": "https://github.com/dieghernan/igoR"
+  },
+  {
+    "package": "resmush",
+    "url": "https://github.com/dieghernan/resmush"
+  },
+  {
+    "package": "nominatimlite",
+    "url": "https://github.com/dieghernan/nominatimlite"
+  },
+  {
+    "package": "rasterpic",
+    "url": "https://github.com/dieghernan/rasterpic"
+  },
+  {
+    "package": "tidyterra",
+    "url": "https://github.com/dieghernan/tidyterra"
+  },
+  {
+    "package": "arcgeocoder",
+    "url": "https://github.com/dieghernan/arcgeocoder"
+  },
+  {
+    "package": "gitdevr",
+    "url": "https://github.com/dieghernan/gitdevr"
+  },
+  {
+    "package": "pkgdev",
+    "url": "https://github.com/dieghernan/pkgdev"
+  },
+  {
+    "package": "mapSpain",
+    "url": "https://github.com/rOpenSpain/mapSpain"
+  },
+  {
+    "package": "tidyBdE",
+    "url": "https://github.com/rOpenSpain/tidyBdE"
+  },
+  {
+    "package": "CatastRo",
+    "url": "https://github.com/rOpenSpain/CatastRo"
+  },
+  {
+    "package": "climaemet",
+    "url": "https://github.com/rOpenSpain/climaemet"
+  },
+  {
+    "package": "CatastRoNav",
+    "url": "https://github.com/rOpenSpain/CatastRoNav"
+  },
+  {
+    "package": "rostemplate",
+    "url": "https://github.com/rOpenSpain/rostemplate"
+  },
+  {
+    "package": "cffr",
+    "url": "https://github.com/ropensci/cffr"
+  }
 ]
