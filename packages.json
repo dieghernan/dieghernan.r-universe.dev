@@ -8,6 +8,11 @@
     "url": "https://github.com/rOpenGov/rogtemplate"
   },
   {
+    "package": "mapSpain",
+    "url": "https://github.com/rOpenSpain/mapSpain",
+    "branch": "main"
+  },
+  {
     "package": "igoR",
     "url": "https://github.com/dieghernan/igoR"
   },
