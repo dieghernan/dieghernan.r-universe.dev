@@ -32,8 +32,8 @@
      "url":"https://github.com/dieghernan/igoR"
   },
   {
-     "package":"tidygeoboundaries",
-     "url":"https://github.com/dieghernan/tidygeoboundaries"
+     "package":"geobn",
+     "url":"https://github.com/dieghernan/geobn"
   },
   {
      "package":"mapSpain",
