@@ -64,6 +64,10 @@
      "url":"https://github.com/rOpenSpain/rostemplate"
   },
   {
+     "package":"rstudiothemes",
+     "url":"https://github.com/rOpenSpain/rstudiothemes"    
+  }
+  {
      "package":"tidyBdE",
      "url":"https://github.com/rOpenSpain/tidyBdE"
   },
